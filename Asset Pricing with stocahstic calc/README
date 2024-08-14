@@ -1,0 +1,1 @@
+Simulates OU Proccess with karlman filter. Then uses yfinance to produce data for which we can estimate the model paramaters with the MLE estimater.
